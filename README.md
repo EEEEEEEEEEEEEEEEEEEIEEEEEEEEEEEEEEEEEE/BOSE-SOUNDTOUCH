@@ -6,7 +6,7 @@
 
         http://203.0.113.1:17008/update.html
 
-#### Choose your "Update.stu" file and hit upload - Upgrade will take ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload - Upgrade will date ~3 minutes, once done browse to your bose soundtouch devices IP address
+#### Choose your "Update.stu" file and hit upload - Upgrade will take ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload and the once done, do as below:
       
 ![Screenshot](bose1.png)
 ![Screenshot](bose2.png)

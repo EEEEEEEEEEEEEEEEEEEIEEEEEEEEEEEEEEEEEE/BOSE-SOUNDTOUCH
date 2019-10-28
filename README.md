@@ -9,7 +9,7 @@
 ![Screenshot](bose3.png)
 ![Screenshot](bose5.png)
 
-#### Choose your "Update.stu" file and hit upload - Upgrade will tale ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload - Upgrade will date ~3 minutes, once done browse to your bose soundtouch devices IP address
+#### Choose your "Update.stu" file and hit upload - Upgrade will take ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload - Upgrade will date ~3 minutes, once done browse to your bose soundtouch devices IP address
 
 #### A simple portscan gives us the result below:
       

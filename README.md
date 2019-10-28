@@ -2,6 +2,13 @@
 
 ![Screenshot](main.jpg)
  
+### 'Hackers can remotely control thousands of Sonos and Bose speakers'
+##### 'Security experts at Trend Micro have demonstrated that certain models of Sonos and Bose speakers are affected by vulnerabilities that could allow attackers to hijack them.'
+
+https://securityaffairs.co/wordpress/67292/hacking/hacking-speakers.html
+
+## So how do we hack them? See below! :-)
+
 #### While USB cable is plugged in browse to:
 
         http://203.0.113.1:17008/update.html

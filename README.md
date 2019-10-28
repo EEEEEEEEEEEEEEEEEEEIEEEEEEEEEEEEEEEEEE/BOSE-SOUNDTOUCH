@@ -1,18 +1,20 @@
 # BOSE SOUNDTOUCH
+
+![Screenshot](main.jpg)
  
 #### While USB cable is plugged in browse to:
 
         http://203.0.113.1:17008/update.html
 
+#### Choose your "Update.stu" file and hit upload - Upgrade will take ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload - Upgrade will date ~3 minutes, once done browse to your bose soundtouch devices IP address
+      
 ![Screenshot](bose1.png)
 ![Screenshot](bose2.png)
 ![Screenshot](bose3.png)
 ![Screenshot](bose5.png)
 
-#### Choose your "Update.stu" file and hit upload - Upgrade will take ~3 minutes, once done browse to your bose soundtouch devices IP address and hit upload - Upgrade will date ~3 minutes, once done browse to your bose soundtouch devices IP address
-
 #### A simple portscan gives us the result below:
-      
+
       thinkpad /home/wuseman # nmap -p0- -T5 203.0.113.1
       Starting Nmap 7.80 ( https://nmap.org ) at 2019-10-27 03:54 CET
       Nmap scan report for 203.0.113.1

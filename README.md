@@ -13,7 +13,7 @@
 ![Screenshot](bose3.png)
 ![Screenshot](bose5.png)
 
-#### A simple portscan gives us the result below:
+#### A simple portscan gives us the result below: (IMPORTANT: USB Cable must be plugged in)
 
       thinkpad /home/wuseman # nmap -p0- -T5 203.0.113.1
       Starting Nmap 7.80 ( https://nmap.org ) at 2019-10-27 03:54 CET
